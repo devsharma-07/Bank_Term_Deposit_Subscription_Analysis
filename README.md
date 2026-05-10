@@ -1,5 +1,5 @@
 # ***Portuguese Bank Marketing - Term Deposit Subscription Analysis***
-### Dev Sharma
+### Dev
 ---
 
 **Skills:** Python, Machine Learning, Statistical Modeling, Data Engineering & Analysis, Data Cleaning
